@@ -1,16 +1,13 @@
-# startup_namer
+# Word_Pairs
 
-A new Flutter application.
+A flutter app that generates infinite random word pairs.
+A user can add or remove any pair to a favorites list, as well as the ability to see favorited words.
 
-## Getting Started
+## Author
+[Isaac Mutie](github.com/Kasre96)
 
-This project is a starting point for a Flutter application.
+## Built With
+[Flutter](https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgements
+[Flutter Docs](https://flutter.dev/)
